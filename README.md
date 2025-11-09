@@ -15,8 +15,8 @@ When I’m not coding, I’m designing 3D experiences that bring ideas to life �
 ## 🏆 Highlights & Projects
 
 - 🥇 **1st Place at Dearborn Hacks 2025** — Built *IRIS*, a voice-activated AI assistant that autonomously executes multi-step tasks using Fetch.ai’s autonomous agent framework.  
-- 💡 **WFN Project Director (Top 16 of 250+ Applicants)** — Led the creation of *ClassVoice AI*, a real-time student participation tracker using **FastAPI, MongoDB, and OpenAI Whisper**.  
-- 💻 **Founder Projects** — Developing scalable web applications with **React, Node.js, Tailwind CSS**, and **Prisma**, combining modern UI/UX design with robust backend architecture.
+- 🥇 **1st Place at UottaHacks 2025** — Built *LeadToLead*, Designed a digital pen that records your writing movements in real time and visualizes them on an interactive app, turning physical handwriting into digital data.
+- 💡 **WFN Project Director (Top 16 of 250+ Applicants)** — Led the creation of *ClassVoice AI*, a real-time student participation tracker using **FastAPI, MongoDB, and OpenAI Whisper**.
 
 ## 🌍 Explore More
 
