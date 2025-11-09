@@ -48,9 +48,9 @@ import portfolio from './3dportfolio.png'
 
 // project images
 import aibacklinker from './projects/aibacklinker.png'
-import petpals from './projects/petpals.png'
-import realestatescraper from './projects/realestatescraper.png'
-import camphaven from './projects/camphaven.png'
+import petpals from './projects/petPals.png'
+import realestatescraper from './projects/realestateScraper.png'
+import camphaven from './projects/CampHaven.png'
 import Iris from './projects/Iris.jpg'
 import AiContributer from './projects/AiContributer.png'
 import freeSpotifyIcon from './projects/freeSpotify.png'
