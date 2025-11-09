@@ -49,7 +49,7 @@ import portfolio from './3dportfolio.png'
 // project images
 import aibacklinker from './projects/aibacklinker.png'
 import petpals from './projects/petPals.png'
-import realestatescraper from './projects/realEstateScraper.png'
+import realestatescraper from './projects/RealestateScraper.png'
 import camphaven from './projects/CampHaven.png'
 import Iris from './projects/Iris.jpg'
 import AiContributer from './projects/AiContributer.png'
