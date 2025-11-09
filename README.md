@@ -20,8 +20,8 @@ When I’m not coding, I’m designing 3D experiences that bring ideas to life �
 
 ## 🌍 Explore More
 
-Dive into my 3D portfolio and interactive showcases here:  
-👉 [philipp-mayorov.vercel.app](https://philipp-mayorov.vercel.app)
+Dive into my 3D portfolio and learn about me here: 
+👉 philippmayorov.com
 
 ## 📫 Let’s Connect
 
