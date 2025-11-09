@@ -21,7 +21,7 @@ When I’m not coding, I’m designing 3D experiences that bring ideas to life �
 ## 🌍 Explore More
 
 Dive into my 3D portfolio and learn about me here: 
-👉 philippmayorov.com
+👉 [philippmayorov.com](https://philippmayorov.com/)
 
 ## 📫 Let’s Connect
 
