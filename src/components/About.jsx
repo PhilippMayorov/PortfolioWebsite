@@ -59,7 +59,7 @@ const About = () => {
         onClick={() =>
           // update resume link here:
           window.open(
-            'https://drive.google.com/file/d/16xHITIKZF4NNFqm6DCBwFGJrQE354OzZ/view?usp=sharing',
+            'https://drive.google.com/file/d/1_LQlSvug024F9sKvfW9DdM0YuTjUJOYN/view?usp=sharing',
             '_blank'
           )
         }
@@ -67,11 +67,11 @@ const About = () => {
         <span className="font-semibold">Resume</span>
       </button>
 
-      <div className="mt-20 flex flex-wrap gap-10">
+      {/* <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}
-      </div>
+      </div> */}
     </>
   )
 }
