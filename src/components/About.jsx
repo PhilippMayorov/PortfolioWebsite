@@ -59,7 +59,7 @@ const About = () => {
         onClick={() =>
           // update resume link here:
           window.open(
-            'https://drive.google.com/file/d/1_LQlSvug024F9sKvfW9DdM0YuTjUJOYN/view?usp=sharing',
+            'https://drive.google.com/file/d/1lBzFT-0SuqVOEs3OR5S6FUIEFP7MWlX-/view?usp=sharing',
             '_blank'
           )
         }
